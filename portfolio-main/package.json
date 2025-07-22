@@ -45,11 +45,3 @@
     "typescript": "^5"
   }
 }
-
-"homepage": "https://Riiyansh.github.io/Portfolio",
-"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist",       // for Vite
-  // or "deploy": "gh-pages -d build" // for Create React App
-}
-
